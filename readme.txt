@@ -1,0 +1,1 @@
+com.singlemodel   单例模式。
